@@ -1,0 +1,1 @@
+OSI model [link](https://www.cloud4y.ru/blog/model-osi/)
